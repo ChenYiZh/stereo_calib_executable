@@ -1,6 +1,6 @@
 ## stereo calibration executable
 
-this is the executable of stereo calibration for VisionerTech VMG-PROV 01. use this to calibrate while seeing mismatching or SLAM SDK not working. source code of this executable could be found here.
+this is the executable of stereo calibration for VisionerTech VMG-PROV 01. use this to get camera intrinsic and rectify map for see-through, marker-based AR and SLAM-based AR. source code of this executable could be found here.
 
 ## Requirement:
 
